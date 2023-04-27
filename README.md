@@ -3,7 +3,7 @@
 <!---
 **Yasharora2020/Yasharora2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-😀 More About me
+## 😀  More About me
 - 🔭 I’m currently working on Story, Image and Audio generator using openAI
 - 🌱 I’m currently learning Langchain and how to use it to train on a specific domain
 - 📝 Check out my [resume](http://aranyaconsulting.com.s3-website-ap-southeast-2.amazonaws.com/)
