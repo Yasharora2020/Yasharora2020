@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Yash Arora!
 
-<!---
-**Yasharora2020/Yasharora2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 😀  More About me
 - 🔭 I’m currently working on Story, Image and Audio generator using openAI
@@ -19,9 +17,9 @@
    
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+   <code><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 
-
--->
+  
 
 <!---
 
