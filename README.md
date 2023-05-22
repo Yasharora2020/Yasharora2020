@@ -2,7 +2,7 @@
 
 
 ## 😀  More About me
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/yash-arora-b88b2210)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yash-arora-b88b2210)
 
 
 🔨 Languages and Tools:
