@@ -2,9 +2,6 @@
 
 
 ## 😀  More About me
-- 🔭 I’m currently working on Story, Image and Audio generator using openAI
-- 🌱 I’m currently learning Langchain and how to use it to train on a specific domain and how to contribute to open source
-- 📝 Check out my [resume](http://aranyaconsulting.com.s3-website-ap-southeast-2.amazonaws.com/)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/yash-arora-b88b2210)
 
 
